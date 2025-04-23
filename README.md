@@ -1,4 +1,4 @@
-# Water Access and Sanitation in Africa - SQL Case Study
+# Water Access and Sanitation in Africa (SQL Case Study).
 A SQL-based data analysis case study assessing water availability, sanitation infrastructure, and public health in African communities, with recommendations for improving service delivery.
 
 # Project Overview
